@@ -1,0 +1,6 @@
+{
+  "name": "P2P Cabeamento Estruturado",
+  "description": "Sistema de cabeamento estruturado e infraestrutura de rede corporativa para interligação de prédios de Clínica e Setor Financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
